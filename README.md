@@ -221,7 +221,8 @@ Smart-Resume-Classifier/
 ├── requirements.txt
 ├── .gitignore
 ├── app.py
-│
+├── Nootbooks
+    ├── resume_classifier.ipnyb
 ├── models/
 │   ├── resume_classifier.pkl
 │   ├── tfidf_vectorizer.pkl
@@ -232,7 +233,6 @@ Smart-Resume-Classifier/
 │
 └── screenshots/
     ├── home.png
-    ├── uploaded_resumes.png
     └── classification_results.png
 ```
 
